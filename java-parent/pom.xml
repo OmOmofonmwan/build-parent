@@ -6,7 +6,7 @@
     <parent>
         <groupId>dev.ikm.build</groupId>
         <artifactId>parent</artifactId>
-        <version>1.51.0-SNAPSHOT</version>
+        <version>1.51.0-IAT-611-Testing-4-SNAPSHOT</version>
     </parent>
     <artifactId>java-parent</artifactId>
     <name>Java Parent</name>
